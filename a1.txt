@@ -1,9 +1,1 @@
-This is a page
-This is my second commit
-This is my third commit
-This is fourth commit
-<<<<<<< HEAD
-This is my fifth commit in branch4
-=======
-This is bakchodi in master branch
->>>>>>> 7c63c25261768ebb6e7d86fca2cfe9c5aa2565c6
+this is a page
