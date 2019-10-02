@@ -1,4 +1,8 @@
 this is a page
 this is b1
 this is change in master
+<<<<<<< HEAD
 a change in b1
+=======
+this is another change in master
+>>>>>>> 7fb16708b060e47323ccc1088a6493e119c59478
